@@ -1,2 +1,4 @@
 kaggle.json
 *.csv
+*.xslx
+*.pkl
